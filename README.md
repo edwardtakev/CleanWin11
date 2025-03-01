@@ -1,4 +1,4 @@
-# Windows 11 Debloat & Customization PowerShell Script
+# Customize & Clean Windows 11
 
 This PowerShell script removes preinstalled Windows 11 apps, disables telemetry, tracking, and unwanted features, and customizes the taskbar and Start Menu.
 
