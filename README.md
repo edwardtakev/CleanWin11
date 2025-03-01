@@ -13,10 +13,9 @@ This PowerShell script removes preinstalled Windows 11 apps, disables telemetry,
 
 ## How to Use
 
-1. **Clone the repo:**
-   `git clone https://github.com/edwardtakev/CleanWin11`.
+1. **Clone the repo**
 
-2. **Run PowerShell as Administrator:**
+2. **Run PowerShell as Administrator**
 
 3. **Enable Script Execution (if required):**
    ```powershell
